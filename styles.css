@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    background-color: rgb(252, 230, 242);
+}
+
+.about-me {
+    color: rgb(0, 0, 0);
+    display: inline-block;
+    position: relative;
+    bottom: 70px;
+    width: 900px;
+}
+
+.about-me2 {
+    color: rgb(0, 0, 0);
+    display: inline-block;
+    position: relative;
+    bottom: 70px;
+    width: 900px;
+}
+
+.topnav {
+    background-color: rgb(118, 118, 118);
+    text-align: center;
+    word-spacing: 40px;
+}
+
+.pages {
+    background-color: rgb(118, 118, 118);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+.rightimage {
+    float: right;
+}
